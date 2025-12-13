@@ -1,0 +1,14 @@
+Query: Hoc phi nganh CNTT la bao nhieu?
+Total time: 4.19s
+Timing: {'decomposition': 0.0, 'retrieval': 3.0471529960632324, 'generation': 1.1377592086791992, 'total': 4.184912204742432}
+Answer: Để biết được học phí ngành CNTT tại Trường Đại học Bình Dương, chúng ta cần xem xét các mức học phí được áp dụng. Trường có 3 mức học phí khác nhau dựa trên loại học phần:
+
+- Mức 1: Học phần đại cương, cơ sở ngành, chuyên ngành chỉ có tiết lý thuyết, với đơn giá 529.000 đồng/tín chỉ.
+- Mức 2: Học phần đại cương, cơ sở ngành, chuyên ngành có tiết lý thuyết và thực hành, với đơn giá 643.000 đồng/tín chỉ.
+- Mức 3: Học phần đại cương, cơ sở ngành, chuyên ngành chỉ có tiết thực hành, với đơn giá 756.000 đồng/tín chỉ.
+
+Tuy nhiên, thông tin cụ thể về học phí của ngành CNTT không được cung cấp trực tiếp trong tài liệu. Vì vậy, để có thông tin chính xác về học phí ngành CNTT, bạn nên liên hệ trực tiếp với trường hoặc tham khảo trên trang web tuyển sinh của Trường Đại học Bình Dương.
+
+Nguồn thông tin:
+- https://tuyensinh.bdu.edu.vn/index.php/thong-bao-tuyen-sinh/thong-bao-tuyen-sinh-van-bang-2-dot-1-nam-2025-534.html
+- https://tuyensinh.bdu.edu.vn/index.php/ho-so/huong-dan-tan-sinh-vien-khoa-28-dong-hoc-phi-le-phi-nhap-hoc-bao-hiem-y-te-nam-2025-550.html

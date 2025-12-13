@@ -1,0 +1,33 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+venv_bdu_chatbot/
+.env
+
+# Tests (Excluded as requested)
+test_*.py
+*_test.py
+quick_test.py
+tests/
+
+# Editor config
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+temp_report.*
+*.tmp
+*.log
+
+# Sensitive data (Normally we ignore data, but for this demo/thesis we keep verified data)
+# qdrant_data/  <-- COMMENTED OUT: Keep this for deployment ease
+# chat_history.db <-- OPTIONAL: Ignore if you want clean history for everyone
+
+# Large documentation files (Optional, keep if you want to back up)
+# information/DATN_CHATBOT_RAG4.docx

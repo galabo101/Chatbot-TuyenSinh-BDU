@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-12-09T14:56:16.166780",
+  "summary": {
+    "passed": 2,
+    "failed": 0,
+    "total": 2,
+    "pass_rate": "100.0%"
+  },
+  "results": [
+    {
+      "name": "Web Search Fallback",
+      "passed": true,
+      "message": "Action=HYBRID, WebSources=0"
+    },
+    {
+      "name": "Web Search Fallback",
+      "passed": true,
+      "message": "Action=HYBRID, WebSources=0"
+    }
+  ]
+}

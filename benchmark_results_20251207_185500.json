@@ -1,0 +1,147 @@
+[
+  {
+    "model": "llama-3.3-70b-versatile",
+    "query": "Học phí ngành Công nghệ Thông tin năm 2025?",
+    "timestamp": "2025-12-07T18:55:01.570608",
+    "success": true,
+    "response": "Xin chào bạn, hiện tại chúng tôi chưa có thông tin về học phí ngành Công nghệ Thông tin (CNTT) của Trường Đại học Bình Dương năm 2025. Tuy nhiên, học phí ngành CNTT năm trước là 8.000.000đ/năm. Để có thông tin chính xác và cập nhật về học phí năm 2025, bạn có thể liên hệ với chúng tôi qua hotline 0274.123.4567 hoặc truy cập trang web của trường để biết thêm thông tin. Chúng tôi luôn sẵn lòng hỗ trợ bạn!",
+    "ttft": 0.5476539134979248,
+    "total_time": 0.8743200302124023,
+    "token_count": 116,
+    "throughput": 132.67453105451514
+  },
+  {
+    "model": "openai/gpt-oss-120b",
+    "query": "Học phí ngành Công nghệ Thông tin năm 2025?",
+    "timestamp": "2025-12-07T18:55:03.431195",
+    "success": true,
+    "response": "Học phí ngành **Công nghệ Thông tin** tại Trường Đại học Bình Dương hiện tại là **8.000.000 đồng mỗi năm**.  \n(Thông tin này được cập nhật cho năm học 2024 và vẫn áp dụng cho năm 2025, trừ khi có thông báo thay đổi sau.)\n\nNếu bạn đáp ứng tiêu chí học bổng, trường có thể hỗ trợ **giảm học phí từ 50 % đến 100 %** cho sinh viên xuất sắc.\n\n**Liên hệ để biết chi tiết:**\n- Địa chỉ: 504 Đại lộ Bình Dương, P. Phú Lợi, TP.HCM  \n- Hotline: 0274.123.4567  \n\nChúc bạn thành công trong việc lựa chọn ngành học!",
+    "ttft": 0.47394895553588867,
+    "total_time": 0.8537991046905518,
+    "token_count": 166,
+    "throughput": 194.42512774731065
+  },
+  {
+    "model": "gemini-2.0-flash-exp",
+    "query": "Học phí ngành Công nghệ Thông tin năm 2025?",
+    "timestamp": "2025-12-07T18:55:04.697080",
+    "success": false,
+    "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp\nPlease retry in 55.328698247s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 55\n}\n]"
+  },
+  {
+    "model": "llama-3.3-70b-versatile",
+    "query": "So sánh điểm chuẩn các ngành năm 2024?",
+    "timestamp": "2025-12-07T18:55:06.557495",
+    "success": true,
+    "response": "Xin chào! Cảm ơn bạn đã quan tâm đến Trường Đại học Bình Dương. Tuy nhiên, tôi chỉ có thông tin về điểm chuẩn của ngành Công nghệ Thông tin (CNTT) năm 2024, là từ 18-22 điểm. Hiện tại, tôi không có thông tin về điểm chuẩn của các ngành khác trong trường.\n\nNếu bạn muốn biết thêm thông tin về điểm chuẩn của các ngành khác, tôi đề nghị bạn liên hệ trực tiếp với trường qua hotline 0274.123.4567 để được tư vấn cụ thể và chính xác. Chúng tôi luôn sẵn lòng hỗ trợ bạn!",
+    "ttft": 0.5162739753723145,
+    "total_time": 0.859138011932373,
+    "token_count": 126,
+    "throughput": 146.65862556424528
+  },
+  {
+    "model": "openai/gpt-oss-120b",
+    "query": "So sánh điểm chuẩn các ngành năm 2024?",
+    "timestamp": "2025-12-07T18:55:08.899371",
+    "success": true,
+    "response": "**So sánh điểm chuẩn các ngành năm 2024 (theo thông tin hiện có)**  \n\n| Ngành (có trong dữ liệu) | Điểm chuẩn 2024 |\n|---------------------------|-----------------|\n| Công nghệ thông tin (CNTT) | **18 – 22 điểm** |\n\nHiện tại, Trường Đại học Bình Dương chỉ công bố một khoảng điểm chuẩn chung cho năm 2024, là **18 – 22 điểm**. Vì vậy, không có số liệu chi tiết để so sánh điểm chuẩn giữa các ngành khác nhau (ví dụ: Kinh tế, Quản trị kinh doanh, Luật, …).  \n\n**Bạn có thể:**\n\n1. **Liên hệ trực tiếp** với phòng tuyển sinh để nhận bảng điểm chuẩn chi tiết của từng ngành:  \n   - **Hotline:** 0274.123.4567  \n   - **Địa chỉ:** 504 Đại lộ Bình Dương, P. Phú Lợi, TP.HCM  \n\n2. **Truy cập website** của trường (nếu có) hoặc **đến văn phòng tuyển sinh** để lấy bản in bảng điểm chuẩn năm 2024 cho mọi ngành.  \n\nNếu bạn quan tâm đến **ngành CNTT**, điểm chuẩn 18‑22 là mức tham khảo để chuẩn bị hồ sơ. Đối với các ngành khác, chúng tôi khuyến khích bạn gọi điện hoặc đến trực tiếp để có thông tin cập nhật và chính xác nhất.  \n\nChúc bạn chuẩn bị tốt và đạt được kết quả như mong muốn!",
+    "ttft": 0.6510252952575684,
+    "total_time": 1.3418333530426025,
+    "token_count": 327,
+    "throughput": 243.69643164594814
+  },
+  {
+    "model": "gemini-2.0-flash-exp",
+    "query": "So sánh điểm chuẩn các ngành năm 2024?",
+    "timestamp": "2025-12-07T18:55:09.997913",
+    "success": false,
+    "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp\nPlease retry in 50.032378144s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 50\n}\n]"
+  },
+  {
+    "model": "llama-3.3-70b-versatile",
+    "query": "Trường có học bổng không? Điều kiện như thế nào?",
+    "timestamp": "2025-12-07T18:55:11.701751",
+    "success": true,
+    "response": "Có, Trường Đại học Bình Dương có học bổng dành cho sinh viên xuất sắc. Học bổng có mức 50-100% học phí. Tuy nhiên, thông tin chi tiết về điều kiện cụ thể để nhận học bổng không được cung cấp. Để biết thêm thông tin, bạn có thể liên hệ trực tiếp với trường qua hotline 0274.123.4567 hoặc truy cập trang web chính thức của trường để được tư vấn cụ thể.",
+    "ttft": 0.3351442813873291,
+    "total_time": 0.7002520561218262,
+    "token_count": 94,
+    "throughput": 134.2373780672575
+  },
+  {
+    "model": "openai/gpt-oss-120b",
+    "query": "Trường có học bổng không? Điều kiện như thế nào?",
+    "timestamp": "2025-12-07T18:55:14.255410",
+    "success": true,
+    "response": "**Có, Trường Đại học Bình Dương có chương trình học bổng dành cho sinh viên xuất sắc.**  \n\n| Loại học bổng | Mức hỗ trợ | Đối tượng |\n|---------------|------------|-----------|\n| Học bổng merit | 50 % – 100 % học phí | Sinh viên có thành tích học tập nổi bật (điểm chuẩn cao, GPA tốt) và/hoặc thành tích ngoại khóa ấn tượng |\n\n### Điều kiện chung để được xét học bổng\n1. **Điểm chuẩn nhập học**: thường phải đạt **trên 20 điểm** (điểm chuẩn 2024 của ngành CNTT là 18‑22).  \n2. **Điểm trung bình (GPA)**: ít nhất **3.5/4.0** trong học kỳ đầu (hoặc trong kỳ thi tuyển).  \n3. **Thành tích ngoại khóa**: có giải thưởng cấp trường, tỉnh, quốc gia trong các hoạt động khoa học, công nghệ, thể thao, văn nghệ, tình nguyện…  \n4. **Thái độ học tập**: tích cực, có tinh thần tự học và tham gia các dự án, câu lạc bộ liên quan đến ngành.  \n5. **Không vi phạm nội quy**: không có kỷ luật nào trong thời gian học.\n\n### Quy trình xét học bổng\n1. **Nộp hồ sơ**: Khi đăng ký nhập học, nộp bảng điểm, chứng chỉ, giấy tờ chứng minh thành tích ngoại khóa.  \n2. **Đánh giá**: Ban tuyển sinh sẽ xem xét dựa trên các tiêu chí trên.  \n3. **Công bố**: Kết quả học bổng sẽ được thông báo cùng với kết quả xét tuyển (thường trong vòng 2‑3 tuần sau ngày công bố điểm chuẩn).  \n4. **Ký hợp đồng**: Khi nhận học bổng, sinh viên ký thỏa thuận thực hiện các cam kết (đảm bảo duy",
+    "ttft": 0.6278030872344971,
+    "total_time": 1.5236947536468506,
+    "token_count": 421,
+    "throughput": 276.30206049628225
+  },
+  {
+    "model": "gemini-2.0-flash-exp",
+    "query": "Trường có học bổng không? Điều kiện như thế nào?",
+    "timestamp": "2025-12-07T18:55:15.330879",
+    "success": false,
+    "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp\nPlease retry in 44.692930192s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 44\n}\n]"
+  },
+  {
+    "model": "llama-3.3-70b-versatile",
+    "query": "Địa chỉ và cách liên hệ với phòng tuyển sinh?",
+    "timestamp": "2025-12-07T18:55:17.112790",
+    "success": true,
+    "response": "Trường Đại học Bình Dương có địa chỉ tại 504 Đại lộ Bình Dương, P. Phú Lợi, TP.HCM. Để liên hệ với phòng tuyển sinh, bạn có thể gọi điện đến hotline 0274.123.4567. Chúng tôi luôn sẵn sàng hỗ trợ và tư vấn cho bạn về thông tin tuyển sinh và các chương trình học tại trường.",
+    "ttft": 0.5695226192474365,
+    "total_time": 0.7775819301605225,
+    "token_count": 75,
+    "throughput": 96.45285865184283
+  },
+  {
+    "model": "openai/gpt-oss-120b",
+    "query": "Địa chỉ và cách liên hệ với phòng tuyển sinh?",
+    "timestamp": "2025-12-07T18:55:18.856630",
+    "success": true,
+    "response": "**Địa chỉ:** 504 Đại lộ Bình Dương, Phường Phú Lợi, Thành phố Hồ Chí Minh  \n**Cách liên hệ:** Gọi Hotline 0274 123 4567 để được hỗ trợ trực tiếp từ phòng tuyển sinh.",
+    "ttft": 0.6844954490661621,
+    "total_time": 0.7373309135437012,
+    "token_count": 56,
+    "throughput": 75.94961634099573
+  },
+  {
+    "model": "gemini-2.0-flash-exp",
+    "query": "Địa chỉ và cách liên hệ với phòng tuyển sinh?",
+    "timestamp": "2025-12-07T18:55:19.925095",
+    "success": false,
+    "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp\nPlease retry in 40.085267546s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 40\n}\n]"
+  },
+  {
+    "model": "llama-3.3-70b-versatile",
+    "query": "Lịch tuyển sinh năm 2025 diễn ra khi nào?",
+    "timestamp": "2025-12-07T18:55:21.622740",
+    "success": true,
+    "response": "Xin lỗi, nhưng thông tin về lịch tuyển sinh năm 2025 không được cung cấp trong thông tin mà bạn đã chia sẻ. Để biết thông tin chính xác về lịch tuyển sinh năm 2025 của Trường Đại học Bình Dương, bạn có thể liên hệ trực tiếp với trường qua hotline 0274.123.4567 hoặc truy cập trang web chính thức của trường. Chúng tôi sẽ cập nhật thông tin mới nhất khi có thể.",
+    "ttft": 0.602147102355957,
+    "total_time": 0.6826620101928711,
+    "token_count": 91,
+    "throughput": 133.30169050170224
+  },
+  {
+    "model": "openai/gpt-oss-120b",
+    "query": "Lịch tuyển sinh năm 2025 diễn ra khi nào?",
+    "timestamp": "2025-12-07T18:55:23.444398",
+    "success": true,
+    "response": "Xin lỗi, hiện tại mình chưa có thông tin chi tiết về lịch tuyển sinh năm 2025 của Trường Đại học Bình Dương. Bạn có thể liên hệ trực tiếp với phòng tuyển sinh qua hotline **0274.123.4567** hoặc đến trường tại địa chỉ **504 Đại lộ Bình Dương, P. Phú Lợi, TP.HCM** để được cập nhật lịch trình mới nhất. Nếu cần thêm bất kỳ thông tin nào khác (học phí, điểm chuẩn, học bổng,…) mình sẵn sàng hỗ trợ!",
+    "ttft": 0.57771897315979,
+    "total_time": 0.8156716823577881,
+    "token_count": 116,
+    "throughput": 142.21408258858432
+  },
+  {
+    "model": "gemini-2.0-flash-exp",
+    "query": "Lịch tuyển sinh năm 2025 diễn ra khi nào?",
+    "timestamp": "2025-12-07T18:55:24.528104",
+    "success": false,
+    "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp\nPlease retry in 35.49052616s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 35\n}\n]"
+  }
+]

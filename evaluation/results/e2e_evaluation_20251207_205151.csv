@@ -1,0 +1,31 @@
+ID,Group,Category,Question,Overall Score,Keyword Coverage,Source Accuracy,Response Time,Num Sources
+S01,simple,học phí,Học phí ngành Công nghệ thông tin là bao nhiêu?,0.7,0.6,1.0,5.204,2
+S02,simple,liên hệ,Địa chỉ trường Đại học Bình Dương ở đâu?,1.0,1.0,1.0,1.045,2
+S03,simple,liên hệ,Hotline tuyển sinh của trường là gì?,0.625,0.25,1.0,1.352,2
+S04,simple,ngành học,Trường có những ngành đào tạo nào?,0.9,0.8,1.0,1.419,2
+S05,simple,điểm chuẩn,Điểm chuẩn ngành Luật năm 2024 là bao nhiêu?,1.0,1.0,1.0,1.09,2
+S06,simple,hồ sơ,Hồ sơ xét tuyển gồm những gì?,0.75,0.5,1.0,1.253,2
+S07,simple,học bổng,Trường có học bổng không?,0.567,0.333,1.0,8.962,2
+S08,simple,lịch tuyển sinh,Thời gian tuyển sinh năm 2025 khi nào?,0.775,0.75,1.0,23.146,2
+S09,simple,ngành học,Mã ngành Công nghệ thông tin là gì?,0.567,0.333,1.0,5.261,2
+S10,simple,liên hệ,Email liên hệ tuyển sinh là gì?,0.733,0.667,1.0,8.715,2
+C01,complex,so sánh,So sánh điểm chuẩn ngành Luật và ngành Kinh tế năm 2024?,1.0,1.0,1.0,14.393,2
+C02,complex,tổng hợp,Học phí và điểm chuẩn ngành CNTT năm 2024?,1.0,1.0,1.0,7.709,2
+C03,complex,tư vấn,Tôi có 18 điểm thì đậu được những ngành nào và học phí ra sao?,1.0,1.0,1.0,27.607,2
+C04,complex,so sánh,Ngành nào có điểm chuẩn thấp nhất và cao nhất năm 2024?,1.0,1.0,1.0,11.561,2
+C05,complex,tổng hợp,Trường có những phương thức xét tuyển nào và điều kiện từng phương thức?,1.0,1.0,1.0,41.423,4
+C06,complex,so sánh,So sánh học phí giữa các ngành khối kinh tế?,1.0,1.0,1.0,8.816,2
+C07,complex,tư vấn,"Nếu tôi thích công nghệ, nên chọn ngành CNTT hay Trí tuệ nhân tạo?",0.9,0.75,1.0,11.124,2
+C08,complex,lọc,Liệt kê các ngành có mức học phí dưới 20 triệu/năm?,1.0,1.0,1.0,7.98,2
+C09,complex,so sánh,Quy trình nộp hồ sơ online và offline khác nhau như thế nào?,1.0,1.0,1.0,18.702,6
+C10,complex,so sánh,Điểm chuẩn năm 2024 thay đổi như thế nào so với 2023?,0.9,0.75,1.0,6.682,2
+O01,out_of_scope,tin tức,Tin tức tuyển sinh mới nhất hôm nay của trường?,0.567,0.667,0.5,8.518,2
+O02,out_of_scope,xếp hạng,Trường Đại học Bình Dương xếp hạng thứ mấy ở Việt Nam?,0.433,0.333,0.5,22.04,2
+O03,out_of_scope,việc làm,Cơ hội việc làm sau khi tốt nghiệp ngành CNTT tại BDU?,0.7,1.0,0.5,7.593,2
+O04,out_of_scope,đánh giá,Đánh giá của sinh viên về trường Đại học Bình Dương?,0.3,0.0,0.5,6.788,2
+O05,out_of_scope,sinh hoạt,Ký túc xá trường có giá bao nhiêu một tháng?,0.3,0.0,0.5,23.704,2
+O06,out_of_scope,quốc tế,Trường có chương trình trao đổi sinh viên quốc tế không?,0.7,1.0,0.5,19.367,2
+O07,out_of_scope,việc làm,Lương trung bình của sinh viên BDU sau khi ra trường?,0.3,0.0,0.5,19.423,2
+O08,out_of_scope,sinh hoạt,Các câu lạc bộ sinh viên tại trường?,0.567,0.667,0.5,22.667,2
+O09,out_of_scope,ngoài phạm vi,Thời tiết ở Bình Dương hôm nay thế nào?,1.0,1.0,1.0,18.577,2
+O10,out_of_scope,ngoài phạm vi,Cho tôi công thức nấu phở?,1.0,1.0,1.0,23.618,2

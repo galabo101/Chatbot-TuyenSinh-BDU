@@ -1,0 +1,829 @@
+{
+  "evaluation_date": "2025-12-11 16:22:35",
+  "total_questions": 30,
+  "group_statistics": {
+    "simple": {
+      "total_questions": 10,
+      "successful": 10,
+      "failed": 0,
+      "avg_overall_score": 0.6367,
+      "avg_keyword_coverage": 0.3733000000000001,
+      "avg_source_accuracy": 1.0,
+      "avg_response_time": 6.132300000000001,
+      "with_sources_rate": 1.0
+    },
+    "complex": {
+      "total_questions": 10,
+      "successful": 10,
+      "failed": 0,
+      "avg_overall_score": 0.8539999999999999,
+      "avg_keyword_coverage": 0.71,
+      "avg_source_accuracy": 1.0,
+      "avg_response_time": 14.707699999999997,
+      "with_sources_rate": 1.0
+    },
+    "out_of_scope": {
+      "total_questions": 10,
+      "successful": 10,
+      "failed": 0,
+      "avg_overall_score": 0.5199999999999999,
+      "avg_keyword_coverage": 0.4,
+      "avg_source_accuracy": 0.6,
+      "avg_response_time": 17.050399999999996,
+      "with_sources_rate": 1.0
+    }
+  },
+  "detailed_results": [
+    {
+      "question_id": "S01",
+      "question": "Học phí ngành Công nghệ thông tin là bao nhiêu?",
+      "category": "học phí",
+      "group": "simple",
+      "answer_preview": "để biết học phí ngành công nghệ thông tin, chúng ta cần biết học phí được tính theo tín chỉ và mỗi ngành học có thể có mức học phí khác nhau tùy thuộc vào loại học phần (lý thuyết, thực hành, hoặc kết...",
+      "metrics": {
+        "keyword_coverage": 0.6,
+        "source_accuracy": 1.0,
+        "response_time": 5.652,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 288,
+        "overall_score": 0.7
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Thong Bao Tuyen Sinh Van Bang 2 Dot 1 Nam 2025_Tab"
+        },
+        {
+          "type": "text",
+          "title": "Thong Bao Tuyen Sinh Dai Hoc Chinh Quy Nam 2023_Ta"
+        }
+      ]
+    },
+    {
+      "question_id": "S02",
+      "question": "Địa chỉ trường Đại học Bình Dương ở đâu?",
+      "category": "liên hệ",
+      "group": "simple",
+      "answer_preview": "trường đại học bình dương hiện tại đã chính thức đổi địa chỉ về: số 504 đại lộ bình dương, p. phú lợi, thành phố hồ chí minh.\n\nnguồn: thông báo quan trọng về thay đổi địa chỉ của trường đại học bình d...",
+      "metrics": {
+        "keyword_coverage": 1.0,
+        "source_accuracy": 1.0,
+        "response_time": 1.058,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 44,
+        "overall_score": 1.0
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Trường Đại học Bình Dương - Nơi kiến tạo tương lai"
+        },
+        {
+          "type": "text",
+          "title": "Ngành Tài chính - Ngân hàng - Ngành học của sự thà"
+        }
+      ]
+    },
+    {
+      "question_id": "S03",
+      "question": "Hotline tuyển sinh của trường là gì?",
+      "category": "liên hệ",
+      "group": "simple",
+      "answer_preview": "tôi không tìm thấy thông tin về vấn đề này trong tài liệu tuyển sinh hiện có.",
+      "metrics": {
+        "keyword_coverage": 0.25,
+        "source_accuracy": 1.0,
+        "response_time": 3.555,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 17,
+        "overall_score": 0.625
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Hướng dẫn tân sinh viên khóa 27 đóng học phí, lệ p"
+        },
+        {
+          "type": "text",
+          "title": "Truong Dai Hoc Binh Duong Ra Mat Chuyen Nganh Moi "
+        }
+      ]
+    },
+    {
+      "question_id": "S04",
+      "question": "Trường có những ngành đào tạo nào?",
+      "category": "ngành học",
+      "group": "simple",
+      "answer_preview": "**các ngành đào tạo tại trường đại học bình dương (hệ đại học chính quy)**  \n\n- **kế toán**  \n- **tài chính - ngân hàng**  \n- **luật kinh tế**  \n- **quản trị kinh doanh**  \n  - quản trị doanh nghiệp  ...",
+      "metrics": {
+        "keyword_coverage": 0.8,
+        "source_accuracy": 1.0,
+        "response_time": 3.358,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 194,
+        "overall_score": 0.9
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Thong Bao Tuyen Sinh He Dai Hoc Lien Thong Nam 202"
+        },
+        {
+          "type": "text",
+          "title": "Thong Bao Tuyen Sinh Dai Hoc Chinh Quy Nam 2023_Ta"
+        }
+      ]
+    },
+    {
+      "question_id": "S05",
+      "question": "Điểm chuẩn ngành Luật năm 2024 là bao nhiêu?",
+      "category": "điểm chuẩn",
+      "group": "simple",
+      "answer_preview": "tôi không tìm thấy thông tin về vấn đề này trong tài liệu tuyển sinh hiện có.",
+      "metrics": {
+        "keyword_coverage": 0.0,
+        "source_accuracy": 1.0,
+        "response_time": 1.233,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 17,
+        "overall_score": 0.5
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "BDU công bố điểm chuẩn năm 2024. Điểm trúng tuyển "
+        },
+        {
+          "type": "text",
+          "title": "Diem Chuan Trung Tuyen Dai Hoc Chinh Quy 2025_Imag"
+        }
+      ]
+    },
+    {
+      "question_id": "S06",
+      "question": "Hồ sơ xét tuyển gồm những gì?",
+      "category": "hồ sơ",
+      "group": "simple",
+      "answer_preview": "tôi không tìm thấy thông tin về vấn đề này trong tài liệu tuyển sinh hiện có.",
+      "metrics": {
+        "keyword_coverage": 0.0,
+        "source_accuracy": 1.0,
+        "response_time": 1.153,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 17,
+        "overall_score": 0.5
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Truong Dai Hoc Binh Duong Tuyen Sinh Dai Hoc Chinh"
+        },
+        {
+          "type": "text",
+          "title": "Nam Bat Tuong Lai Voi 17 Nganh Dao Tao Dai Hoc Hap"
+        }
+      ]
+    },
+    {
+      "question_id": "S07",
+      "question": "Trường có học bổng không?",
+      "category": "học bổng",
+      "group": "simple",
+      "answer_preview": "**có – trường đại học bình dương có chương trình học bổng cho sinh viên.**  \n\n- **các ngành được cấp học bổng (mỗi ngành 40 suất):**  \n  - nhật bản học – 40 suất  \n  - hàn quốc học – 40 suất  \n  - ngô...",
+      "metrics": {
+        "keyword_coverage": 0.333,
+        "source_accuracy": 1.0,
+        "response_time": 6.992,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 183,
+        "overall_score": 0.567
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Chinh Sach Hoc Bong Hap Dan Cua Dai Hoc Binh Duong"
+        },
+        {
+          "type": "text",
+          "title": "Chính sách học bổng đối với sinh viên hệ chính quy"
+        }
+      ]
+    },
+    {
+      "question_id": "S08",
+      "question": "Thời gian tuyển sinh năm 2025 khi nào?",
+      "category": "lịch tuyển sinh",
+      "group": "simple",
+      "answer_preview": "tôi không tìm thấy thông tin về thời gian tuyển sinh năm 2025 trong tài liệu tuyển sinh hiện có.",
+      "metrics": {
+        "keyword_coverage": 0.75,
+        "source_accuracy": 1.0,
+        "response_time": 22.51,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 20,
+        "overall_score": 0.775
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Diem Chuan Trung Tuyen Dai Hoc Chinh Quy 2025_Imag"
+        },
+        {
+          "type": "text",
+          "title": "Thong Bao Tuyen Sinh Trinh Do Thac Si Dot 3 Nam 20"
+        }
+      ]
+    },
+    {
+      "question_id": "S09",
+      "question": "Mã ngành Công nghệ thông tin là gì?",
+      "category": "ngành học",
+      "group": "simple",
+      "answer_preview": "tôi không tìm thấy thông tin về vấn đề này trong tài liệu tuyển sinh hiện có.",
+      "metrics": {
+        "keyword_coverage": 0.0,
+        "source_accuracy": 1.0,
+        "response_time": 6.222,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 17,
+        "overall_score": 0.4
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Ngành Công nghệ Thông tin - Cánh cửa dẫn đến tương"
+        },
+        {
+          "type": "text",
+          "title": "He Thong Thong Tin_Chunk_3"
+        }
+      ]
+    },
+    {
+      "question_id": "S10",
+      "question": "Email liên hệ tuyển sinh là gì?",
+      "category": "liên hệ",
+      "group": "simple",
+      "answer_preview": "tôi không tìm thấy thông tin về vấn đề này trong tài liệu tuyển sinh hiện có.",
+      "metrics": {
+        "keyword_coverage": 0.0,
+        "source_accuracy": 1.0,
+        "response_time": 9.59,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 17,
+        "overall_score": 0.4
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Ho So Tuyen Sinh Tien Si_Table_13"
+        },
+        {
+          "type": "text",
+          "title": "Truong Dai Hoc Binh Duong Ra Mat Chuyen Nganh Moi "
+        }
+      ]
+    },
+    {
+      "question_id": "C01",
+      "question": "So sánh điểm chuẩn ngành Luật và ngành Kinh tế năm 2024?",
+      "category": "so sánh",
+      "group": "complex",
+      "answer_preview": "**so sánh điểm chuẩn năm 2024 (điểm trúng tuyển) của hai ngành:**\n\n- **ngành luật**  \n  - mã ngành: 7380101  \n  - điểm trúng tuyển: **15** (điểm chuẩn)  \n  - điểm học bạ: 15  \n  - điểm đánh giá năng l...",
+      "metrics": {
+        "keyword_coverage": 1.0,
+        "source_accuracy": 1.0,
+        "response_time": 14.186,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 132,
+        "overall_score": 1.0
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Truong Dai Hoc Binh Duong Cong Bo Nguong Dam Bao C"
+        },
+        {
+          "type": "text",
+          "title": "Bdu Cong Bo Diem Chuan Nam 2024 Diem Trung Tuyen 1"
+        }
+      ]
+    },
+    {
+      "question_id": "C02",
+      "question": "Học phí và điểm chuẩn ngành CNTT năm 2024?",
+      "category": "tổng hợp",
+      "group": "complex",
+      "answer_preview": "tôi không tìm thấy thông tin về học phí và điểm chuẩn ngành công nghệ thông tin (cntt) năm 2024 trong tài liệu tuyển sinh hiện có.",
+      "metrics": {
+        "keyword_coverage": 1.0,
+        "source_accuracy": 1.0,
+        "response_time": 6.487,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 27,
+        "overall_score": 0.9
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Thông báo tuyển sinh hệ Đại học liên thông năm 202"
+        },
+        {
+          "type": "text",
+          "title": "Nganh Kien Truc_Image_15"
+        }
+      ]
+    },
+    {
+      "question_id": "C03",
+      "question": "Tôi có 18 điểm thì đậu được những ngành nào và học phí ra sao?",
+      "category": "tư vấn",
+      "group": "complex",
+      "answer_preview": "**các ngành mà bạn có thể trúng tuyển với 18 điểm (điểm chuẩn ≤ 15)**  \n\n- **nhật bản học** – mã ngành: 7310613 – điểm chuẩn: 15  \n- **hàn quốc học** – mã ngành: 7310614 – điểm chuẩn: 15  \n- **ngôn ng...",
+      "metrics": {
+        "keyword_coverage": 0.5,
+        "source_accuracy": 1.0,
+        "response_time": 30.472,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 215,
+        "overall_score": 0.8
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Bdu Cong Bo Diem Chuan Nam 2024 Diem Trung Tuyen 1"
+        },
+        {
+          "type": "text",
+          "title": "Nam Bat Tuong Lai Voi 17 Nganh Dao Tao Dai Hoc Hap"
+        }
+      ]
+    },
+    {
+      "question_id": "C04",
+      "question": "Ngành nào có điểm chuẩn thấp nhất và cao nhất năm 2024?",
+      "category": "so sánh",
+      "group": "complex",
+      "answer_preview": "**năm 2024 – điểm chuẩn (điểm trúng tuyển) của trường đại học bình dương**\n\n- **điểm chuẩn thấp nhất:** **15 điểm**  \n  - các ngành có điểm chuẩn 15 (điểm trúng tuyển) bao gồm:  \n    - nhật bản học (m...",
+      "metrics": {
+        "keyword_coverage": 1.0,
+        "source_accuracy": 1.0,
+        "response_time": 27.596,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 304,
+        "overall_score": 1.0
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Bdu Cong Bo Diem Chuan Nam 2024 Diem Trung Tuyen 1"
+        },
+        {
+          "type": "text",
+          "title": "Truong Dai Hoc Binh Duong Cong Bo Nguong Dam Bao C"
+        }
+      ]
+    },
+    {
+      "question_id": "C05",
+      "question": "Trường có những phương thức xét tuyển nào và điều kiện từng phương thức?",
+      "category": "tổng hợp",
+      "group": "complex",
+      "answer_preview": "**phương thức xét tuyển tại trường đại học bình dương (theo tài liệu hiện có)**  \n\n- **xét tuyển theo bảng điểm tích lũy của bậc đại học**  \n  - **điều kiện:** thí sinh phải có bằng đại học (hoặc tươn...",
+      "metrics": {
+        "keyword_coverage": 0.6,
+        "source_accuracy": 1.0,
+        "response_time": 15.57,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 166,
+        "overall_score": 0.84
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Truong Dai Hoc Binh Duong Cong Bo Diem Trung Tuyen"
+        },
+        {
+          "type": "text",
+          "title": "Tuyen Sinh Trinh Do Thac Si Dot 2 Nam 2024_Table_7"
+        }
+      ]
+    },
+    {
+      "question_id": "C06",
+      "question": "So sánh học phí giữa các ngành khối kinh tế?",
+      "category": "so sánh",
+      "group": "complex",
+      "answer_preview": "**so sánh học phí (hk1 năm nhất) và tổng chi phí phải đóng cho các ngành thuộc khối kinh tế**  \n(được trích từ tài liệu tuyển sinh 2023 – nguồn 1, là thông tin mới nhất)\n\n| ngành học | học phí hk1 (vn...",
+      "metrics": {
+        "keyword_coverage": 1.0,
+        "source_accuracy": 1.0,
+        "response_time": 5.613,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 337,
+        "overall_score": 1.0
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Hoc Phi Dai Hoc Chinh Quy Khoa Tuyen Sinh Nam 2023"
+        },
+        {
+          "type": "text",
+          "title": "Ke Hoach Nhap Hoc Dai Hoc Chinh Quy Khoa Tuyen Sin"
+        }
+      ]
+    },
+    {
+      "question_id": "C07",
+      "question": "Nếu tôi thích công nghệ, nên chọn ngành CNTT hay Trí tuệ nhân tạo?",
+      "category": "tư vấn",
+      "group": "complex",
+      "answer_preview": "tôi không tìm thấy thông tin về vấn đề này trong tài liệu tuyển sinh hiện có.",
+      "metrics": {
+        "keyword_coverage": 0.0,
+        "source_accuracy": 1.0,
+        "response_time": 10.689,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 17,
+        "overall_score": 0.5
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Tuyển sinh Đại học 2025: 3 yếu tố quan trọng khi c"
+        },
+        {
+          "type": "text",
+          "title": "Tuyen Sinh Trinh Do Thac Si Dot 2 Nam 2024_Table_8"
+        }
+      ]
+    },
+    {
+      "question_id": "C08",
+      "question": "Liệt kê các ngành có mức học phí dưới 20 triệu/năm?",
+      "category": "lọc",
+      "group": "complex",
+      "answer_preview": "**các ngành đào tạo tại trường đại học bình dương có mức học phí dưới 20 triệu đồng/năm (theo dữ liệu năm 2023 – 2024):**\n\n- **kế toán** – 7,633,000 đ (2023) / 10,153,000 đ (2024)  \n- **quản trị kinh ...",
+      "metrics": {
+        "keyword_coverage": 1.0,
+        "source_accuracy": 1.0,
+        "response_time": 21.879,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 263,
+        "overall_score": 1.0
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Hoc Phi Dai Hoc Chinh Quy Khoa Tuyen Sinh Nam 2023"
+        },
+        {
+          "type": "text",
+          "title": "Hoc Phi Dai Hoc Chinh Quy Khoa Tuyen Sinh Nam 2024"
+        }
+      ]
+    },
+    {
+      "question_id": "C09",
+      "question": "Quy trình nộp hồ sơ online và offline khác nhau như thế nào?",
+      "category": "so sánh",
+      "group": "complex",
+      "answer_preview": "**1. quy trình nộp hồ sơ online như thế nào?**  \n- thông tin về quy trình nộp hồ sơ online không có.\n\n**2. quy trình nộp hồ sơ offline như thế nào?**  \n- **bước 1: chuẩn bị hồ sơ**  \n  - đơn xin dự tu...",
+      "metrics": {
+        "keyword_coverage": 1.0,
+        "source_accuracy": 1.0,
+        "response_time": 7.879,
+        "has_sources": true,
+        "num_sources": 6,
+        "answer_length": 285,
+        "overall_score": 1.0
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Thông báo tuyển sinh đại học chính quy năm 2022"
+        },
+        {
+          "type": "text",
+          "title": "Thông báo tuyển sinh đại học chính quy năm 2023"
+        },
+        {
+          "type": "text",
+          "title": "Thông báo tuyển sinh đại học chính quy năm 2024"
+        }
+      ]
+    },
+    {
+      "question_id": "C10",
+      "question": "Điểm chuẩn năm 2024 thay đổi như thế nào so với 2023?",
+      "category": "so sánh",
+      "group": "complex",
+      "answer_preview": "tôi không tìm thấy thông tin về vấn đề này trong tài liệu tuyển sinh hiện có.",
+      "metrics": {
+        "keyword_coverage": 0.0,
+        "source_accuracy": 1.0,
+        "response_time": 6.706,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 17,
+        "overall_score": 0.5
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Tuyển sinh trình độ thạc sĩ đợt 3 năm 2024"
+        },
+        {
+          "type": "text",
+          "title": "Tuyển sinh trình độ thạc sĩ đợt 2 năm 2024"
+        }
+      ]
+    },
+    {
+      "question_id": "O01",
+      "question": "Tin tức tuyển sinh mới nhất hôm nay của trường?",
+      "category": "tin tức",
+      "group": "out_of_scope",
+      "answer_preview": "**tin tức tuyển sinh mới nhất của trường đại học bình dương (hôm nay)**  \n\n- **thay đổi địa chỉ trụ sở**  \n  - trường đã chính thức chuyển địa chỉ về: **số 504 đại lộ bình dương, phường phú lợi, thành...",
+      "metrics": {
+        "keyword_coverage": 1.0,
+        "source_accuracy": 0.5,
+        "response_time": 25.039,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 438,
+        "overall_score": 0.7
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Truong Dai Hoc Binh Duong Ra Mat Chuyen Nganh Moi "
+        },
+        {
+          "type": "text",
+          "title": "Thong Bao Tuyen Sinh Dai Hoc Chinh Quy Nam 2023_Ta"
+        }
+      ]
+    },
+    {
+      "question_id": "O02",
+      "question": "Trường Đại học Bình Dương xếp hạng thứ mấy ở Việt Nam?",
+      "category": "xếp hạng",
+      "group": "out_of_scope",
+      "answer_preview": "tôi không tìm thấy thông tin về vấn đề này trong tài liệu tuyển sinh hiện có.",
+      "metrics": {
+        "keyword_coverage": 0.0,
+        "source_accuracy": 0.5,
+        "response_time": 5.662,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 17,
+        "overall_score": 0.3
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Trường Đại học Bình Dương - Nơi kiến tạo tương lai"
+        },
+        {
+          "type": "text",
+          "title": "Trường Đại học Bình Dương - Nơi kiến tạo tương lai"
+        }
+      ]
+    },
+    {
+      "question_id": "O03",
+      "question": "Cơ hội việc làm sau khi tốt nghiệp ngành CNTT tại BDU?",
+      "category": "việc làm",
+      "group": "out_of_scope",
+      "answer_preview": "tôi không tìm thấy thông tin về vấn đề này trong tài liệu tuyển sinh hiện có.",
+      "metrics": {
+        "keyword_coverage": 0.0,
+        "source_accuracy": 0.5,
+        "response_time": 7.992,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 17,
+        "overall_score": 0.3
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Ky Thuat Phan Mem_Chunk_2"
+        },
+        {
+          "type": "text",
+          "title": "Nganh Kien Truc_Image_15"
+        }
+      ]
+    },
+    {
+      "question_id": "O04",
+      "question": "Đánh giá của sinh viên về trường Đại học Bình Dương?",
+      "category": "đánh giá",
+      "group": "out_of_scope",
+      "answer_preview": "tôi chỉ có thể tư vấn về tuyển sinh.",
+      "metrics": {
+        "keyword_coverage": 0.0,
+        "source_accuracy": 0.5,
+        "response_time": 7.504,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 9,
+        "overall_score": 0.3
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Trường Đại học Bình Dương - Nơi kiến tạo tương lai"
+        },
+        {
+          "type": "text",
+          "title": "Gioi Thieu Nganh_Image_7"
+        }
+      ]
+    },
+    {
+      "question_id": "O05",
+      "question": "Ký túc xá trường có giá bao nhiêu một tháng?",
+      "category": "sinh hoạt",
+      "group": "out_of_scope",
+      "answer_preview": "tôi không tìm thấy thông tin về vấn đề này trong tài liệu tuyển sinh hiện có.",
+      "metrics": {
+        "keyword_coverage": 0.0,
+        "source_accuracy": 0.5,
+        "response_time": 22.392,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 17,
+        "overall_score": 0.3
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Thong Bao Tuyen Sinh Van Bang 2 Dot 1 Nam 2025_Tab"
+        },
+        {
+          "type": "text",
+          "title": "Thong Bao Tuyen Sinh Lien Thong Dot 1 Nam 2025_Tab"
+        }
+      ]
+    },
+    {
+      "question_id": "O06",
+      "question": "Trường có chương trình trao đổi sinh viên quốc tế không?",
+      "category": "quốc tế",
+      "group": "out_of_scope",
+      "answer_preview": "tôi không tìm thấy thông tin về chương trình trao đổi sinh viên quốc tế của trường đại học bình dương trong tài liệu tuyển sinh hiện có.",
+      "metrics": {
+        "keyword_coverage": 1.0,
+        "source_accuracy": 0.5,
+        "response_time": 20.321,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 28,
+        "overall_score": 0.7
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "THÔNG TIN ĐÀO TẠO NGÀNH DƯỢC HỌC VÀ HÓA DƯỢC TẠI V"
+        },
+        {
+          "type": "text",
+          "title": "Tuyen Sinh Trinh Do Thac Si Dot 3 Nam 2024_Table_8"
+        }
+      ]
+    },
+    {
+      "question_id": "O07",
+      "question": "Lương trung bình của sinh viên BDU sau khi ra trường?",
+      "category": "việc làm",
+      "group": "out_of_scope",
+      "answer_preview": "tôi chỉ có thể tư vấn về tuyển sinh.",
+      "metrics": {
+        "keyword_coverage": 0.0,
+        "source_accuracy": 0.5,
+        "response_time": 18.653,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 9,
+        "overall_score": 0.3
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Tuyen Sinh Trinh Do Thac Si Dot 1 Nam 2024_Table_6"
+        },
+        {
+          "type": "text",
+          "title": "Nganh Kien Truc_Image_15"
+        }
+      ]
+    },
+    {
+      "question_id": "O08",
+      "question": "Các câu lạc bộ sinh viên tại trường?",
+      "category": "sinh hoạt",
+      "group": "out_of_scope",
+      "answer_preview": "tôi không tìm thấy thông tin về vấn đề này trong tài liệu tuyển sinh hiện có.",
+      "metrics": {
+        "keyword_coverage": 0.0,
+        "source_accuracy": 0.5,
+        "response_time": 21.26,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 17,
+        "overall_score": 0.3
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Thong Bao Tuyen Sinh Dai Hoc Chinh Quy Nam 2025_Ta"
+        },
+        {
+          "type": "text",
+          "title": "Truong Dai Hoc Binh Duong Tuyen Sinh Dai Hoc Chinh"
+        }
+      ]
+    },
+    {
+      "question_id": "O09",
+      "question": "Thời tiết ở Bình Dương hôm nay thế nào?",
+      "category": "ngoài phạm vi",
+      "group": "out_of_scope",
+      "answer_preview": "tôi chỉ có thể tư vấn về tuyển sinh.",
+      "metrics": {
+        "keyword_coverage": 1.0,
+        "source_accuracy": 1.0,
+        "response_time": 18.206,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 9,
+        "overall_score": 1.0
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Mừng sinh nhật tuổi 28: Tặng ngay 28% học phí học "
+        },
+        {
+          "type": "text",
+          "title": "BDU công bố điểm chuẩn năm 2024. Điểm trúng tuyển "
+        }
+      ]
+    },
+    {
+      "question_id": "O10",
+      "question": "Cho tôi công thức nấu phở?",
+      "category": "ngoài phạm vi",
+      "group": "out_of_scope",
+      "answer_preview": "tôi chỉ có thể tư vấn về tuyển sinh.",
+      "metrics": {
+        "keyword_coverage": 1.0,
+        "source_accuracy": 1.0,
+        "response_time": 23.475,
+        "has_sources": true,
+        "num_sources": 2,
+        "answer_length": 9,
+        "overall_score": 1.0
+      },
+      "sources_used": [
+        {
+          "type": "text",
+          "title": "Thong Bao Tuyen Sinh Dai Hoc Chinh Quy Nam 2023_Ta"
+        },
+        {
+          "type": "text",
+          "title": "Tuyen Sinh Trinh Do Thac Si Dot 2 Nam 2024_Table_7"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "overall_score": 0.67,
+    "best_group": "complex",
+    "worst_group": "out_of_scope",
+    "avg_response_time": 12.63,
+    "recommendation": "Cần cải thiện độ chính xác cho câu hỏi đơn giản - kiểm tra lại indexing | Thời gian phản hồi chậm - xem xét tối ưu hóa hoặc caching"
+  }
+}
